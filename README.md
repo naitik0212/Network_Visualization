@@ -1,5 +1,5 @@
 # Network_Visualization
-Network Visualization using R (iGraph and VisNetwork) and comparing it with Gephi.
+Network Visualization using R (iGraph and VisNetwork) and comparing the result with Gephi.
 
 The dataset provided is of Email list in the course Data Visualization for the month of February. Prior to importing dataset in the Gephi, need to change the column names to Source and Target in the original dataset so that Gephi is able to read the dataset correctly using import as edge list. 
 
